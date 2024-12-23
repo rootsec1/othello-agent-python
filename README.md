@@ -1,6 +1,9 @@
-# Othello Agent (Python)
+# Othello Bot (Python)
 
 This repository provides a **simple Othello bot** written in Python. It connects to an Othello server over TCP, receives board updates, and responds with moves based on a **two-step heuristic**.
+
+![Othello - Atomic Games](https://github.com/user-attachments/assets/667fc039-1b15-4c54-925f-45ef75b7a454)
+
 
 ## Overview
 
